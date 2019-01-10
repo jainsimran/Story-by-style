@@ -12,8 +12,12 @@ h1 {
 p {
   color: #ff7845;
   font-size: 24px;
-  font-family: 'Major Mono Display', monospace;
+  font-family: 'Goudy Bookletter 1911', serif;
 }
 section {
   margin: 50px 20px;
+}
+span {
+  font-family: 'Staatliches', cursive;
+  color: brown;
 }
